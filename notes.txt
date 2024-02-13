@@ -1,0 +1,27 @@
+
+git init --> Para iniciar un proyecto
+(Crea un area de ensayo --> Donde se almacena de forma temporal, sabiendo que archivos tienen un seguimiento de git
+Crea a su vez en un repo local)
+
+Seguimiento de un archivo:
+git add
+
+Para pasar los archivos al repo local
+git commit 
+
+comando para ver los archivos que git tiene contemplados:
+git status -s
+
+git log --oneline --> Para mostrar los sucesos en la consola
+
+git reset --hard <id del archivo>
+Para pedir un commit pero también hacer un add
+git commit -am ""
+
+git commit --amend #Con el fin de corregir el último commit
+
+git tag <identificador de tag> -m "<Descripción del tag>"
+
+git push --tags ---> Para subir las tags al repo
+
+git pull --> Para recuperar la información del repo
