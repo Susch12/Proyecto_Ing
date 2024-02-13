@@ -1,4 +1,3 @@
-Videos 1 - 5
 git init --> Para iniciar un proyecto
 (Crea un area de ensayo --> Donde se almacena de forma temporal, sabiendo que archivos tienen un seguimiento de git
 Crea a su vez en un repo local)
@@ -29,7 +28,6 @@ git pull --> Para recuperar la información del repo
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
-Video 5 a 
 Ramas 
 
 Master --- Proyecto principal
@@ -94,4 +92,3 @@ Pull request -- Función para que otros programadores apoyen tu proyecto
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 
-Uso de Eclipse
