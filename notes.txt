@@ -1,4 +1,4 @@
-
+Videos 1 - 5
 git init --> Para iniciar un proyecto
 (Crea un area de ensayo --> Donde se almacena de forma temporal, sabiendo que archivos tienen un seguimiento de git
 Crea a su vez en un repo local)
@@ -25,3 +25,73 @@ git tag <identificador de tag> -m "<Descripción del tag>"
 git push --tags ---> Para subir las tags al repo
 
 git pull --> Para recuperar la información del repo
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+Video 5 a 
+Ramas 
+
+Master --- Proyecto principal
+Crear ramas para poder hacer pruebas del proyecto
+Se puede crear ramas ilimitadas 
+
+La función merch para fusionar dos ramas.
+
+Problemas de concurrencia al fusionarlas
+
+comando: git branch /nombre de la nueva rama /
+
+cambiar rama: git checkout /Nombre de la rama/
+
+Los cambios se quedan según sea la rama. 
+
+Para poder realizar un merge debes de hacerlo desde la raiz principal
+fucionar raices: git merge /Nombre de la raiz a fusionar/
+#Puede haber conflictos al fusionar, es recomendable hacerlo en vs code 
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Vscode 
+Instalación 
+Extensiones con github y git 
+
+Crear espacios de trabajo para ser más práctico. 
+
+Aprovechar la consola de comandos de Vs
+
+Herramientas para branch en Vscode
+
+Abajo en la izquierda -- Señala la rama 
+
+ctrl + Enter para hacer un commit 
+
+Vscode facilita muchas herramientas para github
+
+Vscode te ayuda a poner resolver conflictos de git 
+
+comando para borrar ramas -- git branch -d /Nombre de la rama/
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+VSC y github
+
+git clone /URL/
+
+git push en el menu de branches de Vscode
+
+Sincronizar en la barra inferior izquierda
+
+función Fork
+Pull request -- Función para que otros programadores apoyen tu proyecto
+
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Uso de Eclipse
